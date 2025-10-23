@@ -7,3 +7,8 @@ The command Im using to compile the C programs in this repository is:
 ```bash
 gcc fileExample.c -o fileExample.exe && fileExample.exe
 ```
+For example: 
+```bash
+gcc calculator.c -o calculator.exe && calculator.exe
+```
+Make sure you have GCC installed on your system to compile and run the C programs.
